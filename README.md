@@ -1,5 +1,17 @@
 # 🎓 Student Performance Prediction Using Machine Learning
 
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: MAYANK VIJAYVARGIYA
+
+**INTERN ID**: CITS256
+
+**DOMAIN**: DATA ANALYTICS
+
+**DURATION**: 6 WEEKS
+
+**MENTOR**: NEELA SANTOSH KUMAR
+
 ## 📌 Project Overview
 
 This project focuses on predicting student math scores using Machine Learning techniques. The objective is to analyze student performance data and build predictive models that can estimate math scores based on demographic and academic factors.
